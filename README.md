@@ -1,4 +1,4 @@
-<img align="right" height="200px" alt="side_sticker" src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" data-canonical-src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" height="400px" alt="side_sticker" src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" data-canonical-src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h3>I love working with,</h3>
 
 <pre>
