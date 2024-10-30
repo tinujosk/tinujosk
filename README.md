@@ -11,7 +11,7 @@ export default function Introduction() {
          Linux-based systems. Adept at meeting tight deadlines
          using agile methodologies and a quick learner,
          constantly adapting to new technologies and environments.
-      &lt;div&gt;
+      &lt;/div&gt;
    )
 };
 </pre>
