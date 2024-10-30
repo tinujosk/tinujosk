@@ -2,15 +2,18 @@
 
 <pre>
 // About me, Tinu Jos K
-export function Introduction() {
-	 return (
-		 <div>
-        Software Engineer with 6+ years of experience in software development specializing
-        in JavaScript (React.js and Node.js). Skilled in writing clean optimized code, with
-        knowledge of automation, cloud computing, UI/UX   design and experience working with
-        Linux-based systems. Adept at meeting tight deadlines using agile methodologies and
-        a quick learner, constantly adapting to new technologies and environments.
-		</div>
+export default function Introduction() {
+    return (
+        &lt;div&gt;
+            Software Engineer with 6+ years of experience
+	    in software development specializing in JavaScript
+	    (React.js and Node.js). Skilled in writing clean
+	    optimized code, with knowledge of automation, cloud
+	    computing, UI/UX   design and experience working with
+            Linux-based systems. Adept at meeting tight deadlines
+	    using agile methodologies and a quick learner,
+	    constantly adapting to new technologies and environments.
+        &lt;div&gt;
 )};
 </pre>
 
