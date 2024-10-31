@@ -51,7 +51,7 @@ export default function Introduction() {
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
 
-## My Certifications (Click to see details)
+## Certifications (Click to see details)
 
 <p>
    <a href="https://www.credly.com/badges/9824e5a0-7f4b-4924-9a4b-930e2c123048" target="_blank" rel="noopener noreferrer">
