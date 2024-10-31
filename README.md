@@ -50,3 +50,17 @@ export default function Introduction() {
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
+
+## My Certifications
+
+<p>
+   <a href="https://www.credly.com/badges/9824e5a0-7f4b-4924-9a4b-930e2c123048" target="_blank" rel="noopener noreferrer">
+   <img alt="AWS Certified Developer" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="200"/>
+   </a>
+   <a href="https://www.credly.com/badges/60e18e51-59ae-41f6-8ca4-37838b26a6c3" target="_blank" rel="noopener noreferrer">
+   <img alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="200"/>
+   </a>
+   <a href="https://www.credly.com/badges/7cc672ac-6782-4e9f-a372-c55e5230e9fc" target="_blank" rel="noopener noreferrer">
+   <img alt="Microsoft Certified: Azure Fundamentals" src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="200"/>
+   </a>
+</p>
